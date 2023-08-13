@@ -1,0 +1,89 @@
+import java.util.Scanner;
+import java.util.Random;
+
+public class rockpaperscissors {
+
+    public static void main(String[] args) {
+        int userChoice, computerChoice, rock, paper;
+
+        Random rand = new Random();
+        Scanner input = new Scanner(System.in);
+//inputs
+        rock = 1;
+        paper = 2;
+        //scissor need not be initialised because of if else
+        System.out.println("ROCK-PAPER-SCISSORS GAME");
+        System.out.println("enter your choice (1=rock,2=paper,3=scissor)");
+
+        userChoice = input.nextInt();
+
+        while (userChoice > 3) {
+            System.out.println("enter valid input");
+            System.out.println("enter your choice (1=rock,2=paper,3=scissor)");
+            userChoice = input.nextInt();
+        }
+        if (userChoice == rock) {
+            System.out.println("you chose rock");
+        }else if (userChoice == paper) {
+            System.out.println("you chose paper");
+        }else {
+            System.out.println("you  chose scissor");
+        }
+
+        computerChoice = rand.nextInt(3);
+        //gives random vale from 0 to 2
+        if (computerChoice == rock) {
+            System.out.println("computer chose rock");
+        }else if (computerChoice == paper) {
+            System.out.println("computer chose paper");
+        }else {
+            System.out.println("computer chose scissor");
+        }
+//result for draw
+        while (userChoice == computerChoice) {
+            System.out.println("Draw try again");
+            System.out.println("enter your choice (1=rock,2=paper,3=scissor)");
+            userChoice = input.nextInt();
+
+            while (userChoice > 3) {
+                System.out.println("invalid \n enter 1,2 or 3");
+                userChoice = input.nextInt();
+            }
+            if (userChoice == rock) {
+                System.out.println("you chose rock");
+            }else if (userChoice == paper) {
+                System.out.println("you chose paper");
+            }else {
+                System.out.println("you  chose scissor");
+            }
+
+            computerChoice = rand.nextInt(3);
+            if (computerChoice == rock) {
+                System.out.println("computer chose rock");
+
+            }else if (computerChoice == paper) {
+                System.out.println("computer chose paper");
+            }else {
+                System.out.println("computer chose scissor");
+            }
+
+        }
+//Result for not draw
+        if (computerChoice == rock) {
+            if (userChoice == paper)
+                System.out.println("user wins");
+            else
+                System.out.println("computer wins");
+        }else if (computerChoice == paper) {
+            if (userChoice == rock)
+                System.out.println("computer wins");
+            else
+                System.out.println("user wins");
+        }else if (userChoice == rock) {
+            //scissors conditions fails so user choice=rock or userchoice=paper can
+            System.out.println("user wins");
+        }else
+                System.out.println("computer wins");
+    }
+
+}
