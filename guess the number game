@@ -1,0 +1,58 @@
+import java.util.Random;
+import java.util.Scanner;
+class guessingGame {
+    Random rand = new Random();
+    int userNumber, compNumber, count = 0;
+    public guessingGame() {
+        compNumber = rand.nextInt(101);//compNumber = rand.nextInt(0, 101);// use either as works// generate numbers b/w 0 to 100
+    }
+    public void takeUserNumber(int n) {
+        userNumber = n;
+    }
+    public void isCorrect() {
+                if (userNumber<0||userNumber>100) {
+                    System.out.println("enter within the range 0 - 100");
+                    count++;
+                }
+                else if (compNumber == userNumber) {
+                    System.out.println("you guessed right");
+                    count++;
+                } else if (userNumber > compNumber) {
+                    System.out.println("guess lesser number");
+                    count++;
+                } else {
+                    System.out.println("guess higher number");
+                    count++;
+                }
+    }
+    public void getCount(){
+        System.out.println("No of guesses :"+count);
+    }
+}
+public class guessGame {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        guessingGame newGame=new guessingGame();
+        System.out.println("\n*********Welcome to the guess the number game***********");
+        System.out.println("***********Guess a number between 0 and 100*************");
+        System.out.print("Are you ready!!!!?????");
+        System.out.println();
+        do{
+            System.out.println("guess the number");
+            int n = sc.nextInt();
+            newGame.takeUserNumber(n);
+            newGame.isCorrect();
+        }
+        while (newGame.userNumber!= newGame.compNumber);
+        int n= newGame.count;
+        newGame.getCount();
+        if (n<=2){
+            System.out.println("pro player");
+        }
+        else if (n<5)
+                System.out.println("you are good");
+        else {
+            System.out.println("Better luck next time");
+        }
+    }
+}
