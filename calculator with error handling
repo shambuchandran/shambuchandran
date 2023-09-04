@@ -1,0 +1,89 @@
+import java.util.Scanner;
+class MaxNumberException extends Exception{
+    @Override
+    public String getMessage() {
+        return "enter values below 10000";
+    }
+}
+class InvalidFunctionException extends Exception{
+    @Override
+    public String getMessage() {
+        return "enter valid function";
+    }
+}
+class MaxMultipilicationException extends Exception{
+    public String getMessage(){
+        return "can multiply below 7000";
+    }
+}
+class DivByZeroException extends Exception{
+    public String getMessage(){
+        return "cant div by zero";
+    }
+}
+public class calc {
+    public static void main(String[] args) throws MaxMultipilicationException,InvalidFunctionException,DivByZeroException,MaxNumberException,Exception{
+        Scanner number = new Scanner(System.in);
+        int a, b;
+        float result;
+        int functions;
+        System.out.println("enter the values of numbers");
+        a = number.nextInt();
+        b = number.nextInt();
+        if (a > 10000 || b > 10000) {
+            try {
+                throw new MaxNumberException();
+            } catch (Exception e) {
+                System.out.println(e);
+            }
+        }else{
+        System.out.println(" what kind of function to do, enter 1 for add, 2 for sub, 3 for mul, 4 for div");
+                functions = number.nextInt();
+                if (functions >4 || functions <1) {
+                    try {
+                        throw new InvalidFunctionException();
+                    } catch (Exception e) {
+                        System.out.println("enter valid function");
+                    }
+                }else {
+                switch(functions) {
+                    case 1:
+                        result = a + b;
+                        System.out.println("result:" + result);
+                        break;
+                    case 2:
+                        result = a - b;
+                        System.out.println("result:" + result);
+                        break;
+                    case 3:
+                        if (a > 7000 || b > 7000) {
+                            try {
+                                throw new MaxMultipilicationException();
+                            } catch (Exception e) {
+                                System.out.println(e);
+                            }
+                        } else {
+                            result = a * b;
+                            System.out.println("result:" + result);
+                        }
+                        break;
+                    case 4:
+                        if (b <= 0) {
+                            try {
+                                throw new DivByZeroException();
+                            } catch (Exception e) {
+                                System.out.println(e);
+                            }
+                        } else {
+                            result = (float) a / b;
+                            System.out.println("result:" + result);
+                        }
+                        break;
+                    default:
+                        System.out.println("check functions");
+                        break;
+                    }
+                }
+        }
+    }
+}
