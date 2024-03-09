@@ -14,8 +14,7 @@ I'm currently focusing on improving my skills in android development.
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]()
-- Twitter: [@YourTwitterHandle]()
+- LinkedIn: www.linkedin.com/in/shambu-c-36b5051b4 
 
 ## 📈 GitHub Stats
 
