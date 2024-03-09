@@ -19,5 +19,4 @@ I'm currently focusing on improving my skills in android development.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)]
 
