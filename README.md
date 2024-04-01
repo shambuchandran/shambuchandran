@@ -16,6 +16,8 @@ I'm currently focusing on improving my skills in android development.
 
 - LinkedIn: www.linkedin.com/in/shambu-c-36b5051b4 
 
-## 📈 GitHub Stats
 
+![digital-skills-user-experience_certificate_of_achievement_p9avx2f_page-0001](https://github.com/shambuchandran/shambuchandran/assets/142157293/20a2fd31-5b17-4556-b500-18fcfce13c1f)
+
+![digital-skills-user-experience_certificate_of_achievement_p9avx2f_page-0002](https://github.com/shambuchandran/shambuchandran/assets/142157293/d88fb07a-3981-4462-b756-0d5a8778ede8)
 
