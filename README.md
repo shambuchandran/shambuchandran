@@ -1,16 +1,17 @@
 # Hello, I'm SHAMBU 👋
 
-I'm a passionate Android developer exploring the exciting world of mobile app development with Kotlin. Welcome to my GitHub profile!
+I'm a passionate Android Developer exploring the exciting world of mobile app development with Kotlin. Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 
-- **Languages:** Kotlin, Java, C, XML
+- **Languages:** Kotlin, Java, C, XML, JetPack Compose
 - **Android:** Android Studio, 
 - **Version Control:** Git, GitHub
+- **Networking:** fibreOptics and digital security
 
 ## 🌱 Currently Learning
 
-I'm currently focusing on improving my skills in android development.
+I'm currently focusing on improving my skills in Native Android Development.
 
 ## 🤝 Connect with Me
 
