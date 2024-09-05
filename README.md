@@ -6,7 +6,6 @@ I'm a passionate Android Developer exploring the exciting world of mobile app de
 
 - **Languages:** Kotlin, Java, C, XML, HTML, CSS
 - **Android:** JetPack Compose
-- **Version Control:** Git, GitHub
 - **Certifications:** Server Networking, fiberOptics and digital security,UI/UX
 
 ## 🌱 Currently Learning
