@@ -1,3 +1,5 @@
+Purple Gradient Typographic Technology LinkedIn Banner (1).gif
+
 Hello, I'm SHAMBU 👋 Passionate Android Developer & Learner
 
 Welcome! I craft innovative, user-centric mobile experiences with Kotlin and the Android ecosystem.
