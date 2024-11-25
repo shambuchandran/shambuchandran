@@ -1,4 +1,4 @@
-Purple Gradient Typographic Technology LinkedIn Banner (1).gif
+![Purple Gradient Typographic Technology LinkedIn Banner](https://github.com/shambuchandran/shambuchandran/blob/main/Purple%20Gradient%20Typographic%20Technology%20LinkedIn%20Banner%20(1).gif?raw=true)
 
 Hello, I'm SHAMBU 👋 Passionate Android Developer & Learner
 
