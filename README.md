@@ -1,21 +1,20 @@
-# Hello, I'm SHAMBU 👋
+Hello, I'm SHAMBU 👋 Passionate Android Developer & Learner
 
-I'm a passionate Android Developer exploring the exciting world of mobile app development with Kotlin. Welcome to my GitHub profile!
+Welcome! I craft innovative, user-centric mobile experiences with Kotlin and the Android ecosystem.
 
-## 🛠️ Skills
+🛠️ Technical Expertise
 
-- **Languages:** Kotlin, Java, C, XML, HTML, CSS
-- **Android:** JetPack Compose
-- **Certifications:** Server Networking, fiberOptics and digital security,UI/UX
+Programming Languages: Kotlin, Java.
+Android Development: Android Jetpack and XML, Jetpack Compose, Jetpack Libraries, Firebase, WebRTC and more.
+UI/UX Design (Certified) & Agile Methodologies
 
-## 🌱 Currently Learning
+🌱 Current Focus & Aspirations
 
-I'm currently focusing on improving my skills in Native Android Development.
-
-## 🤝 Connect with Me
+Deepening Native Android Development expertise
+Exploring Android apps and KMP.
+Let's Connect! to discuss on innovative projects and latest in mobile app tech.
 
 - LinkedIn: www.linkedin.com/in/shambu-c-36b5051b4 
-
 
 ![digital-skills-user-experience_certificate_of_achievement_p9avx2f_page-0001](https://github.com/shambuchandran/shambuchandran/assets/142157293/20a2fd31-5b17-4556-b500-18fcfce13c1f)
 
