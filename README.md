@@ -14,7 +14,7 @@ UI/UX Design (Certified) & Agile Methodologies
 🌱 Current Focus & Aspirations
 
 Deepening Native Android Development expertise
-Exploring Android apps and KMP.
+Exploring Android apps and COMPOSE MULTIPLATFORM.
 Let's Connect! to discuss on innovative projects and latest in mobile app tech.
 
 
