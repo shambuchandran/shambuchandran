@@ -8,13 +8,13 @@ Welcome! I craft innovative, user-centric mobile experiences with Kotlin and the
 🛠️ Technical Expertise
 
 Programming Languages: Kotlin, Java.
-Android Development: Android Jetpack and XML, Jetpack Compose, Jetpack Libraries, Firebase, WebRTC and more.
+Android Development: Android Jetpack and XML, Jetpack Compose, Compose Multiplatform, Jetpack Libraries, Firebase, WebRTC and more.
 UI/UX Design (Certified) & Agile Methodologies
 
 🌱 Current Focus & Aspirations
 
-Deepening Native Android Development expertise
-Exploring Android apps and COMPOSE MULTIPLATFORM.
+Deepening Android Development expertise
+Exploring COMPOSE MULTIPLATFORM.
 Let's Connect! to discuss on innovative projects and latest in mobile app tech.
 
 
