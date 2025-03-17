@@ -7,8 +7,11 @@ Hi, I'm Shambu! A Kotlin developer specializing in building performant Android a
 
 Core Competencies:
 ✅ Android Ecosystem Mastery: Jetpack Compose, XML, Clean Architecture (MVVM/MVI,MVC,MVP), Multi-Module Apps, Dagger-Hilt/Koin DI
+
 ✅ Cross-Platform Innovation: Compose Multiplatform (CMP/KMP) for shared UI logic, WebRTC integrations
+
 ✅ Backend Integration: REST APIs, Ktor/Retrofit, Firebase Services, MongoDB Realm, Room/SQLite
+
 ✅ Agile Development: Experienced in agile and Scrum methodologies, Git workflows, Figma to code implementation, Certified UI/UX Design
 
 What I Bring to Your Team:
