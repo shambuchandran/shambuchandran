@@ -6,6 +6,7 @@ Passionate Android Developer | Crafting Scalable Mobile Experiences with Jetpack
 Hi, I'm Shambu! A Kotlin developer specializing in building performant Android apps (XML & Jetpack Compose) and cross-platform solutions using Compose Multiplatform (CMP & KMP). With expertise in full-cycle mobile development, I transform complex requirements into intuitive user experiences that drive engagement.
 
 Core Competencies:
+
 ✅ Android Ecosystem Mastery: Jetpack Compose, XML, Clean Architecture (MVVM/MVI,MVC,MVP), Multi-Module Apps, Dagger-Hilt/Koin DI
 
 ✅ Cross-Platform Innovation: Compose Multiplatform (CMP/KMP) for shared UI logic, WebRTC integrations
