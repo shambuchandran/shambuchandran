@@ -26,17 +26,20 @@ Strong collaboration skills with cross-functional teams using Scrum methodologie
 Certified UI/UX designer ensuring pixel-perfect implementations
 
 Current Focus:
+
 🔥 Pushing boundaries of Compose Multiplatform for shared Android/iOS/WebApps UIs.
+
 🔭 Exploring Sprite sheet Animation for 2D games, Multi Module development, Ktor backend app, WebRTC based real time communication features.
+
 📚 Deepening expertise in reactive programming & dependency injection.
 
 Let's Build Tomorrow's Apps:
+
 I'm actively seeking roles where I can leverage my full-stack Android expertise to create impactful mobile solutions. Whether you're building consumer apps, enterprise tools, or cross-platform products, let's connect!
 
 📫 Reach Out For: Android/CMP development roles
 
 #OpenToWork #AndroidDev #Kotlin #Java #XML #JetpackCompose #ComposeMultiplatform #MobileDevelopment
-
 
 ![digital-skills-user-experience_certificate_of_achievement_p9avx2f_page-0001](https://github.com/shambuchandran/shambuchandran/assets/142157293/20a2fd31-5b17-4556-b500-18fcfce13c1f)
 
