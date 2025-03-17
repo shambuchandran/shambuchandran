@@ -17,7 +17,7 @@ Core Competencies:
 
 What I Bring to Your Team:
 
-1+ years delivering production-ready apps using modern Android architecture patterns
+2+ years delivering production-ready apps using modern Android architecture patterns
 
 Proven success in optimizing app performance (30% faster cold starts in recent project)
 
